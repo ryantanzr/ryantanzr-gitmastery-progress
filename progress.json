@@ -70,5 +70,14 @@
       "'downloaded_at'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755265401.40922,
+    "completed_at": 1755265401.410855,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
   }
 ]
